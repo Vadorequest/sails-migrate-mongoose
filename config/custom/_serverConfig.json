@@ -1,0 +1,18 @@
+{
+    "translate": {
+        "webservice": {
+            "url": "http://127.0.0.1",
+            "port": 5000
+        }
+    },
+    "mongo": {
+        "error": {
+            "log": "logs/mongo.log"
+        }
+    },
+    "cache": {
+        "reloadCachedFilesFromGameOnStart": false,
+        "secBeforeReloadCache": 15,
+        "lastCacheTimestampFile": ".tmp/cache/last.txt"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "development": {
+        "host" : "127.0.0.1",
+        "db" : "ayolan-translation-development",
+        "port" : "3306",
+        "database" : "ayolan-translation-development",
+        "user" : "root",
+        "password" : ""
+    },
+
+    "development-migrate": {
+        "host" : "127.0.0.1",
+        "db" : "ayolan-translation-development"
+    },
+
+    "production": {
+        "host" : "127.0.0.1",
+        "db" : "ayolan-translation-production",
+        "port" : "3306",
+        "database" : "ayolan-translation-production",
+        "user" : "root",
+        "password" : ""
+    },
+
+    "production-migrate": {
+        "host" : "127.0.0.1",
+        "db" : "ayolan-translation-production"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "private": true,
+    "web": {
+        "webservice": {
+            "url": "http://127.0.0.1",
+            "port": 1337
+        }
+    },
+    "game": {
+        "webservice": {
+            "url": "http://127.0.0.1",
+            "port": 1500
+        },
+        "server": {
+            "url": "http://127.0.0.1",
+            "port": 1501
+        }
+    },
+    "mongo": {
+        "error": {
+            "log": "game-server/logs/mongo.log"
+        }
+    },
+    "path": {
+        "base": "_calculated_"
+    }
+}

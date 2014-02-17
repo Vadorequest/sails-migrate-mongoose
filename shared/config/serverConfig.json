@@ -1,0 +1,11 @@
+{
+    "private": false,
+    "target": "server",
+    "environment": "development",
+    "defaultLanguage": "en",
+    "languages": {
+        "messageKey": "m",
+        "argsKey": "a"
+    }
+
+}
